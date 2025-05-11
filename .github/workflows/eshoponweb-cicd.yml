@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-westeurope
   LOCATION: westeurope
   SUBSCRIPTION-ID: c1ceed32-7202-4178-a96e-27ffd69c6f20
-  WEBAPP-NAME: devops-webapp-westeurope-51153177
+  eshoponweb-webapp-NAME: devops-webapp-westeurope-51158414
 
 
 jobs:
